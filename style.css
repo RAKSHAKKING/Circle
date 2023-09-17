@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#container{
+   width: 1000px;
+   height: 900px;
+    border: 3px solid red;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+
+}
+
+.circle{
+    width: 220px;
+    height: 150px;
+    border: 2px solid green;
+    background-color: rgb(75, 200, 222, 0.9);
+}
